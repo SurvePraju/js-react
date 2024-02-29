@@ -43,3 +43,38 @@ input {
     border-bottom: 2px black dotted;
 
 }
+
+
+.like-image-container {
+    margin-top: 40px;
+    border-radius: 20px;
+    width: 70vw;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.like-image {
+    height: 90%;
+    width: 90%;
+}
+
+.like-button {
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 40px;
+    outline: 0;
+    border: 0;
+    padding: 20px;
+}
+
+.like-count {
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 40px;
+    outline: 0;
+    border: 0;
+    padding: 20px;
+}
