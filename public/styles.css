@@ -4,6 +4,10 @@
     align-items: center;
 }
 
+/* body {
+    background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+} */
+
 .first-container {
     width: 40vw;
     height: 80vh;
