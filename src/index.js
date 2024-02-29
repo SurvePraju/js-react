@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-// import App from './projects/Esignature/App';
-// import App from './projects/RandomBackground/App';
-import App from './projects/DoubleClickLike/App';
+import App from './App';
 
 
 
