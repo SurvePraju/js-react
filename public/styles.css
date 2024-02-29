@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-container {
+    width: 40vw;
+    height: 80vh;
+    background-color: rgb(238, 244, 244);
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-top: 30px;
+
+}
+
+.first-container h1 {
+    font-size: 2rem;
+}
+
+.first-container h2 {
+    font-size: 1.5rem;
+}
+
+.x-flex {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+/* .y-flex {} */
+
+input {
+    outline: 0;
+    border: none;
+    border-bottom: 2px black dotted;
+
+}
